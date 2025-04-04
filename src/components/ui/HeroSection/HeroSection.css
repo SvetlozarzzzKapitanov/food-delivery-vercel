@@ -1,0 +1,12 @@
+
+.hero-section {
+    background-image: url('/src/assets/MainPage.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+    overflow: visible;
+}

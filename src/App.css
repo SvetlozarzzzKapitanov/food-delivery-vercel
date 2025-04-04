@@ -1,0 +1,19 @@
+.layout-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 10000;
+    padding: 8px 14px;
+    background-color: #199b74;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: background-color 0.3s;
+}
+
+.layout-toggle-btn:hover {
+    background-color: #147d5f;
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  background-color: #56473A;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: #199B74;
+  text-align: center;
+  position: relative ;
+  bottom: 0;
+  width: 100%;
+  Height: 40px;
+}
